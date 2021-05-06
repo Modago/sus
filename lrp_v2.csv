@@ -1,0 +1,14 @@
+Sukupuoli;Ikä;Siviilisääty;Koulutus;SUS1;SUS2;SUS3;SUS4;SUS5;SUS6;SUS7;SUS8;SUS9;SUS10;ARS;Oletko käyttänyt jotain AR-sovellusta aiemmin?;Kuinka tämän AR-sovelluksen käyttö oli verrattavissa muihin käyttämiisi AR -sovelluksiin?;Oletko fyysisesti aktiivinen säännöllisesti? (Liikut, harjoittelet tai urheilet säännöllisesti);Kuinka monta tuntia olet fyysisesti aktiivinen viikoittain?: Tuntia
+Female;41-50 v;Naimisissa;Ammattilainen tutkinto;5;2;5;2;5;2;5;1;5;2;7;Ei;;Kyllä;3
+Male;31-40 v;Naimaton/Sinkku;Korkeakoulututkinto;5;1;5;1;4;1;5;1;4;3;5;Kyllä;;Kyllä;3
+Male;Utmost 20 v;Naimaton/Sinkku;Peruskoulu;4;4;1;1;4;5;4;4;1;4;4;Ei;;Kyllä;20
+Female;41-50 v;Naimisissa;Korkeakoulututkinto;2;4;3;1;3;3;5;1;5;1;3;Ei;;Kyllä;5.Jul
+Male;61+ v;Naimisissa;Korkeakoulututkinto;3;2;4;1;4;2;4;2;4;1;7;Ei;;Ei;14
+Female;31-40 v;Naimisissa;Ammattikoulu;4;2;2;1;5;2;5;1;5;2;5;Ei;;Kyllä;5
+Female;61+ v;Naimisissa;Korkeakoulututkinto;2;4;2;4;1;5;4;4;2;3;3;Ei;;Kyllä;5.Jun
+Female;41-50 v;Naimisissa;Korkeakoulututkinto;5;1;5;1;5;1;5;1;5;1;7;Kyllä;Helpompaa;Kyllä;8
+Male;41-50 v;Naimisissa;Ammattikoulu;3;3;3;1;5;1;5;1;3;1;4;Ei;;Kyllä;6.Aug
+Male;31-40 v;Naimisissa;Kandidaatintutkinto;1;5;1;1;2;5;3;5;1;1;1;Kyllä;Ohjelma ei toiminut kunnolla. Koodien skannaamisessa kesti todella kauan ja video katkesi välillä jos kameraa heilautti.;Kyllä;6
+Female;41-50 v;Naimisissa;Korkeakoulututkinto;5;2;3;1;3;1;5;4;5;1;4;Ei;;Kyllä;5.Jul
+Female;41-50 v;Naimaton/Sinkku;Ammattikoulu;3;4;2;1;2;3;2;2;3;1;4;Ei;;Ei;4
+Male;31-40 v;Parisuhteessa;Korkeakoulututkinto;4;2;4;1;4;2;4;1;4;2;7;Ei;;Kyllä;8
